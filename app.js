@@ -1,4 +1,4 @@
-const API_KEY = "sua_chave_de_api_aqui"; // Substitua pela sua chave de API do TMDb
+const API_KEY = "646fb3a6d56916f139c7d54d6746f278"; // Substitua pela sua chave de API do TMDb
 const BASE_URL = "https://api.themoviedb.org/3";
 
 async function search() {
